@@ -10,3 +10,12 @@ Users can be malicious too for our software or website or can apply some hacking
 way like using `ReCaptcha`. ReCaptcha is also a vital thing to prevent some hacking bot or program to break inton our website or system. So,
 we will be using the ReCaptcha. Moreover, we will try to protect our API's if we use, we will try to regenerate the `keys` and `tokens` of 
 API's to protect ourselves.
+
+## 2- In-Built Security:
+We should be using the In-Built security, like implementing the whole protection in the code. Like to prevent the `SQL injection`, which is a
+hacking technique, we can use the triggers or input validation and parametrized queries including prepared statements and etc.
+
+![Functioning-of-an-SQL-Injection](https://user-images.githubusercontent.com/105812482/206729120-0a6b05be-4b8b-4542-a69c-f841ed5a934e.png)
+
+Above mentioned image shows the the SQL injection attack on the database of the targeted Software or website, we can also hire some
+ethical hackers to secure our software and detect and sort out the vulnerabilities of our software or website.
