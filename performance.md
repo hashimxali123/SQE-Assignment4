@@ -37,7 +37,11 @@ it can increase the program's operational efficiency.
 
 ![Lazy-Loading-2](https://user-images.githubusercontent.com/105812482/206724970-ba51b18d-dffe-4c95-8547-edee4cd2ca9b.jpg)
 
-
+We will be implementing lazy loading, and only showing the contents of a particular page. Suppose if user is on our `Attendence page`
+then we will not be loading any other page except that one. Other pages will only be loaded once user enter that particular page.
+It will actually enhance the loading of our website and minimze the latency rate, as it will take along time to load all the pages
+from the server rather than loading only one page. So we thought of implementing all the Performance requirments, because user will
+only be our first priority.
 
 
 
