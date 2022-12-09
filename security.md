@@ -13,9 +13,10 @@ API's to protect ourselves.
 
 ## 2- In-Built Security:
 We should be using the In-Built security, like implementing the whole protection in the code. Like to prevent the `SQL injection`, which is a
-hacking technique, we can use the triggers or input validation and parametrized queries including prepared statements and etc.
+hacking technique.An SQL Injection vulnerability may affect any website or web application that uses an SQL database such as MySQL, Oracle, SQL Server, or others. Criminals may use it to gain unauthorized access to your sensitive data: customer information, personal data, trade secrets, intellectual property, and more. SQL Injection attacks are one of the oldest, most prevalent, and most dangerous web application vulnerabilities. The OWASP organization (Open Web Application Security Project) lists injections in their OWASP Top 10 2017 document as the number one threat to web application security.
 
 ![Functioning-of-an-SQL-Injection](https://user-images.githubusercontent.com/105812482/206729120-0a6b05be-4b8b-4542-a69c-f841ed5a934e.png)
 
-Above mentioned image shows the the SQL injection attack on the database of the targeted Software or website, we can also hire some
-ethical hackers to secure our software and detect and sort out the vulnerabilities of our software or website.
+### Solution:
+Above mentioned image shows the the SQL injection attack on the database of the targeted Software or website, We can use the triggers or input validation and parametrized queries including prepared statements and etc and we can also hire some ethical hackers to secure our software and 
+detect and sort out the vulnerabilities of our software or website.
