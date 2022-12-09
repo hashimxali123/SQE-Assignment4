@@ -11,7 +11,7 @@ it's source code in an efficient manner, as done by other open-source platforms 
 Now, if it comes to the modularity of Dolibar, in the scripts, it is arranged in modular structure as evident from the above image, we
 will also be achieving this thing in our `FLEX`.
 
-## Modular Comprehensibility
+## 2- Modular Comprehensibility
 Simply, the word "understandability" refers to the capacity for comprehension. Modular understandability refers to making each module simpler for the user to grasp so that software development and customization are incredibly simple. Because of their complexity and substantial size, process models can occasionally be difficult to comprehend. It is simpler to understand the problem effectively and without any problems when using modularity understandability.
 
 Now, if it comes to the Modular strcutre of our Flex, we will be managing it as it Dolibar is managing. They are actually having a separte module
@@ -26,4 +26,12 @@ If it comes to the code, each module folder contains it's own code, in `PHP` if 
 When suppose, one opens the module of `Accountancy`, there is only one file of PHP, corresponding to that, which is really good and 
 convenient for user to understand the stuff going around, and it is also not too complex with respect to user.
 
+## 3- Modular Security
+To safeguard something simply is to keep it safe from dangers, to guard against unsavoury methods or damage. Modular protection refers to safeguarding other modules against anomalous circumstances that might arise in a certain module while it is running. An error or failure, sometimes known as a run-time error, might represent an anomalous circumstance. These errors have limited aftereffects that are contained within the module.
 
+When it comes to Dolibar, modules must be secured from drastic changes and vulnerability, so Dolibar uses the platform like `Github` to make it 
+more secures so that whenever changes are made, owner must know and no one can commit changes to main branch without push request and allowance 
+by the admin.
+
+We will also be using the Github platform for open-souce our project, as it is really necessary for the Academic portal to be secured so that
+not all persons can access and edit the code or changes the stuff.
