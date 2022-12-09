@@ -8,4 +8,5 @@ Secrets management is the practise of controlling the usage of passwords, keys, 
 
 Users can be malicious too for our software or website or can apply some hacking techniques to break into our system. There should be some
 way like using `ReCaptcha`. ReCaptcha is also a vital thing to prevent some hacking bot or program to break inton our website or system. So,
-we will be using the ReCaptcha.
+we will be using the ReCaptcha. Moreover, we will try to protect our API's if we use, we will try to regenerate the `keys` and `tokens` of 
+API's to protect ourselves.
