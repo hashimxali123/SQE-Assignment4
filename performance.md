@@ -29,3 +29,16 @@ are similar is coming to us many times, then we will make a server in between th
 the server, so that it will only take a long latency rate first time only but not after first time.
 
 Even `Google` also provide the cache loading by the keyword of `cache: website.com`.
+
+## 3-  Lazy Loading:
+The initialization of an object is postponed until the point at which it is required by using the design pattern known as "lazy loading," 
+which is frequently used in computer programming and mostly in web design and development. If implemented correctly and responsibly, 
+it can increase the program's operational efficiency.
+
+![Lazy-Loading-2](https://user-images.githubusercontent.com/105812482/206724970-ba51b18d-dffe-4c95-8547-edee4cd2ca9b.jpg)
+
+
+
+
+
+
