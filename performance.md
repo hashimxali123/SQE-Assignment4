@@ -28,3 +28,4 @@ We will actually make a system will this, if our main server is very far away fr
 are similar is coming to us many times, then we will make a server in between them and will do the cache loading in
 the server, so that it will only take a long latency rate first time only but not after first time.
 
+Even `Google` also provide the cache loading by the keyword of `cache: website.com`.
