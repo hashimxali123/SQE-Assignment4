@@ -25,3 +25,6 @@
 ## 6 New version of the system should be released when at least ten medium severity bugs are reported.
 
 
+## 7 System should have the VersionsAndReleases.md document in the repository of github of the project.
+### 7.1 System's VersionsAndReleases.md document should have information about every release of the app.
+#### 7.1.1 System's VersionsAndReleases.md document's informations should include the version identifier number and the bugs resolved from the previous version.
