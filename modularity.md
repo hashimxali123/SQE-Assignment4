@@ -51,3 +51,12 @@ by the admin.
 
 We will also be using the Github platform for open-souce our project, as it is really necessary for the Academic portal to be secured so that
 not all persons can access and edit the code or changes the stuff.
+
+
+## Requirments:
+###    1.  System shall have the secure modules.   
+####   1.1 System shall have all the modules divided and must have a owner of a module taking care of particular one.
+###    2.  System shall have a proper platform for sharing modules.
+####   2.1 System should use github to open-source modules.
+####   2.2 System should have proper admin of github for reviewing push and pull requests.
+
