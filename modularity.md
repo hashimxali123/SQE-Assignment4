@@ -18,6 +18,9 @@ will also be achieving this thing in our `FLEX`.
 ####   2.1 System modules should be 90% independent.
 ####   2.2 System should have separate independent runnable module of header. 
 ####   2.3 System should have separate independent runnable module of footer.
+####   2.4 System should not have more than 10% index computed from LACK OF COHESION OF METHODS formula.
+####   3. System should follow 3 tier architecture,one for client side,second for business logic,third for server side.
+
 
 
 ## 2- Modular Comprehensibility
