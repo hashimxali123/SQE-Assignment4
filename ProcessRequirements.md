@@ -8,3 +8,13 @@
 ### 2.5 The system's bug reporting template should include Identifier Test Item.
 ### 2.6 The system's bug reporting template should include Test Environment.
 ### 2.7 The system's bug reporting template should include Description.
+#### 2.7.1 The system's bug reporting template should include Steps to reproduce.
+#### 2.7.2 The system's bug reporting template should include Test Data used.
+#### 2.7.3 The system's bug reporting template should include Screenshots.
+#### 2.7.4 The system's bug reporting template should include System Logs.  
+### 2.8 The system's bug reporting template should include Expected & Actual Results.
+### 2.9 The system's bug reporting template should include bug Severity.
+### 2.10 The system's bug reporting template should include Priority.
+### 2.11 The system's bug reporting template should include Status.  
+
+
