@@ -67,16 +67,19 @@ only be our first priority.
 
 ## Requirments:
 ### 1. System should load each page when user needs.
-#### 1.1 System should load 1 page at a time.
-#### 1.2 System shall maintain the latency rate of 1 second on loading each page.
-#### 1.3 System shall load the next page when user is halfway down to the already loaded page.
+#### 1.1 System should load 1 page at a time.  
+#### 1.2 System shall maintain the latency rate of 1 second on loading each page.  
+#### 1.3 System shall load the next page when user is halfway down to the already loaded page.  
 
 
-### Performance Vitals
+### Performance Vitals  
+ 
+## Large Contentful Page  
+### 1. System shoud load the Large Contentful pages in less than 2000 ms for 95% of the time when these large contentful pages open.  
 
-## Large Contentful Page
-### 1. System shoud load the Large Contentful pages in less than 2000 ms for 95% of the time when these large contentful pages open.
-
+##  First Input Delay  
+### 1. System's First input delay should not be more than 1000 ms for 95% of the time.  
+### 1.1 System should load all the bundles java and javascript simultaneously for each content rather than loading html first ,javascript second.  
 
 
 
