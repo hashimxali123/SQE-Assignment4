@@ -13,10 +13,10 @@ will also be achieving this thing in our `FLEX`.
 
 ## Requirments:
 ###    1.  System shall have modular structure.   
-####   1.1 System shall have only a source file in each folder.
+####   1.1 System shall have only 1 source file in each folder.
 ###    2.  System shall have scripts managed in different folders.
 ####   2.1 System should be less complex.
-####   2.2 System should be convenient for user.
+####   2.2 System should be 100% convenient for naive users.
 
 
 ## 2- Modular Comprehensibility
