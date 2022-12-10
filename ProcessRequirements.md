@@ -22,3 +22,6 @@
 ### 3.2 The system's pull request from developer branch to github main branch by the contributors should be merged with main after at least 48 hours.
 ## 4 New version of the system should be released when at least one critical severity bug reported.
 ## 5 New version of the system should be released when at least five high severity bugs are reported.
+## 6 New version of the system should be released when at least ten medium severity bugs are reported.
+
+
