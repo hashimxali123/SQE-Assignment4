@@ -15,8 +15,9 @@ will also be achieving this thing in our `FLEX`.
 ###    1.  System shall have modular structure.   
 ####   1.1 System shall have only 1 source file in each folder.
 ###    2.  System shall have scripts managed in different folders.
-####   2.1 System should be less complex.
-####   2.2 System should be 100% convenient for naive users.
+####   2.1 System modules should be 90% independent.
+####   2.2 System should have separate independent runnable module of header. 
+####   2.3 System should have separate independent runnable module of footer.
 
 
 ## 2- Modular Comprehensibility
