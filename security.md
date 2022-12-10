@@ -12,9 +12,9 @@ we will be using the ReCaptcha. Moreover, we will try to protect our API's if we
 API's to protect ourselves.
 
 ## Requirments:
-### 1. System should change the API key and Token after every 10 seconds.
-#### 1.1 System must have API key and token ciphered using `Caesar Cipher` algorithm.
-#### 1.2 System must have ReCaptcha online whenever someone tries to get to the API page.
+### 1. System shall change the API key and Token after every 10 seconds.
+#### 1.1 System shall have API key and token ciphered using `Caesar Cipher` algorithm.
+#### 1.2 System shall have ReCaptcha online whenever someone tries to get to the API page.
 
 
 ## 2- In-Built Security:
