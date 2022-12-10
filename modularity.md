@@ -14,6 +14,8 @@ will also be achieving this thing in our `FLEX`.
 ## Requirments:
 ###    1.  System shall have modular structure.   
 ####   1.1 System shall have only 1 source file in each folder.
+###    1.2. System should not have coupling index greater than 5% between modules.  
+
 ###    2.  System shall have scripts managed in different folders.
 ####   2.1 System should be less complex.
 ####   2.2 System should be 100% convenient for naive users.
@@ -35,10 +37,10 @@ convenient for user to understand the stuff going around, and it is also not too
 
 ## Requirments:
 ###    1.  System shall have proper naming conventions.   
-####   1.1 System shall have all the modules folders named with a word.
-###    2.  System shall a code with proper readability.
-####   2.1 System should have code with proper naming conventions.
-####   2.2 System should have code with proper commenting.
+####   1.1 System shall have all the modules folders named with one word module name.
+###    2.  System should have code with 97% readability.
+####   2.1 System should have code with proper naming conventions of the language used.
+####   2.2 System should have code with 3 lines of comments for each function .
 
 
 
@@ -54,9 +56,9 @@ not all persons can access and edit the code or changes the stuff.
 
 
 ## Requirments:
-###    1.  System shall have the secure modules.   
-####   1.1 System shall have all the modules divided and must have a owner of a module taking care of particular one.
-###    2.  System shall have a proper platform for sharing modules.
+###    1.  System should have the secure modules.   
+####   1.1 System should have all the modules divided and must have a owner of a module taking care of particular one.
+###    2.  System should have a proper platform for sharing modules.
 ####   2.1 System should use github to open-source modules.
-####   2.2 System should have proper admin of github for reviewing push and pull requests.
+####   2.2 System should have an admin selected for reviewing push and pull requests.
 
