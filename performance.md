@@ -20,6 +20,8 @@ Continent. It is all about user convenience and we try to make it easy for users
 #### 1.2 System shall fetch the data from nearest respective server available.
 ### 2. System shall be available for any of 7 continents.
 #### 2.1 System shall have data of all 7 continents.
+### 3. System should use PWA to cache required content so that next time,request  don't go again to the server for same content.
+
 
 
 
@@ -41,10 +43,12 @@ Even `Google` also provide the cache loading by the keyword of `cache: website.c
 
 
 ## Requirments:
+
 ### 1. System should atleast 1 cahche copy for each page.
 #### 1.1 System should have 1 latest cache copy for each page in each server of 7 continents.
 #### 1.2 System shall maintain each latest copy in every 1 minute.
 #### 1.3 System shall have each cache copy synchronized with other servers.
+
 
 
 ## 3-  Lazy Loading:
