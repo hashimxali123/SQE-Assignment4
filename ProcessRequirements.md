@@ -21,3 +21,4 @@
 ### 3.1 The System's pull request from developer branch to github main branch by the contributors should be reviewed by at least two scenior developers first ,then it shoud be merged.
 ### 3.2 The system's pull request from developer branch to github main branch by the contributors should be merged with main after at least 48 hours.
 ## 4 New version of the system should be released when at least one critical severity bug reported.
+## 5 New version of the system should be released when at least five high severity bugs are reported.
