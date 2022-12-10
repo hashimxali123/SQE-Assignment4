@@ -72,4 +72,11 @@ only be our first priority.
 #### 1.3 System shall load the next page when user is halfway down to the already loaded page.
 
 
+### Performance Vitals
+
+## Large Contentful Page
+### 1. System shoud load the Large Contentful pages in less than 2000 ms for 95% of the time when these large contentful pages open.
+
+
+
 
