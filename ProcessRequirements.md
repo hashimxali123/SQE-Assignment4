@@ -17,4 +17,6 @@
 ### 2.10 The system's bug reporting template should include Priority.
 ### 2.11 The system's bug reporting template should include Status.  
 
-
+## 3 The system's pull request from developer branch to github main branch by the contributors should be reviewed in 12 hours. 
+### 3.1 The System's pull request from developer branch to github main branch by the contributors should be reviewed by at least two scenior developers first ,then it shoud be merged.
+### 3.2 The system's pull request from developer branch to github main branch by the contributors should be merged with main after at least 48 hours.
