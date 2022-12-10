@@ -19,7 +19,7 @@ Continent. It is all about user convenience and we try to make it easy for users
 #### 1.1 System should not lag for more than 1 seconds.
 #### 1.2 System shall fetch the data from nearest respective server available.
 ### 2. System shall be available for any of 7 continents.
-#### 2.1 System must have data of all 7 continents.
+#### 2.1 System shall have data of all 7 continents.
 
 
 
