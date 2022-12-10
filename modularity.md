@@ -12,11 +12,11 @@ Now, if it comes to the modularity of Dolibar, in the scripts, it is arranged in
 will also be achieving this thing in our `FLEX`.
 
 ## Requirments:
-### 1. System shall have modular structure.
-#### 1.1 System shall have scripts managed in different folders.
-#### 1.2 System shall have only a source file in each folder.
-#### 1.3 System should be less complex.
-#### 1.4 System should be convenient for user.
+###    1. System shall have modular structure.
+####   1.1 System shall have scripts managed in different folders.
+####   1.2 System shall have only a source file in each folder.
+####   1.3 System should be less complex.
+####   1.4 System should be convenient for user.
 
 
 ## 2- Modular Comprehensibility
