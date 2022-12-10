@@ -14,6 +14,15 @@ We will somehow try to manage a system as above, to make the data readily availa
 We aim to have big 7 servers in each of the `Continent` to make data readily available for that particular
 Continent. It is all about user convenience and we try to make it easy for users.
 
+## Requirments:
+### 1. System should have latency rate of 2 seconds only.
+#### 1.1 System should not lag for more than 1 seconds.
+#### 1.2 System shall fetch the data from nearest respective server available.
+### 2. System shall be available for any of 7 continents.
+#### 2.1 System shall have data of all 7 continents.
+
+
+
 ## 2- Usage of Cache:
 Caching is the process of storing copies of files in a cache, or temporary storage location, so that they can be accessed more quickly. 
 Technically, a cache is any temporary storage location for copies of files or data, but the term is often used in reference to 
@@ -30,6 +39,14 @@ the server, so that it will only take a long latency rate first time only but no
 
 Even `Google` also provide the cache loading by the keyword of `cache: website.com`.
 
+
+## Requirments:
+### 1. System should atleast 1 cahche copy for each page.
+#### 1.1 System should have 1 latest cache copy for each page in each server of 7 continents.
+#### 1.2 System shall maintain each latest copy in every 1 minute.
+#### 1.3 System shall have each cache copy synchronized with other servers.
+
+
 ## 3-  Lazy Loading:
 The initialization of an object is postponed until the point at which it is required by using the design pattern known as "lazy loading," 
 which is frequently used in computer programming and mostly in web design and development. If implemented correctly and responsibly, 
@@ -43,6 +60,12 @@ It will actually enhance the loading of our website and minimze the latency rate
 from the server rather than loading only one page. So we thought of implementing all the Performance requirments, because user will
 only be our first priority.
 
+
+## Requirments:
+### 1. System should load each page when user needs.
+#### 1.1 System should load 1 page at a time.
+#### 1.2 System shall maintain the latency rate of 1 second on loading each page.
+#### 1.3 System shall load the next page when user is halfway down to the already loaded page.
 
 
 
