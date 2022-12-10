@@ -17,7 +17,7 @@ and operating procedures—are tested to determine whether they are fit for use
 
 ##### 1- System should pass test cases.
 
-1.1  System should pass 90% of the test cases.
+1.1  System should pass 90% of the test cases. "GitHub  "
 1.2  System should so above 90% of the coverage.
 
 #### 2- We should use jnuit for unit testing.
