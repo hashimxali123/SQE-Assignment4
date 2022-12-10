@@ -1,1 +1,10 @@
 # Process requirements for the hypothetical decided project are following:
+## 1 The system's github repository should have a template for creating an issue.
+## 2 The system's github repository should have a template for reporting a bug.
+### 2.1 The system's bug reporting template should include Identifier.
+### 2.2 The system's bug reporting template should include Identifier Title.
+### 2.3 The system's bug reporting template should include Reporting Date.
+### 2.4 The system's bug reporting template should include Reporter.
+### 2.5 The system's bug reporting template should include Identifier Test Item.
+### 2.6 The system's bug reporting template should include Test Environment.
+### 2.7 The system's bug reporting template should include Description.
