@@ -14,6 +14,15 @@ We will somehow try to manage a system as above, to make the data readily availa
 We aim to have big 7 servers in each of the `Continent` to make data readily available for that particular
 Continent. It is all about user convenience and we try to make it easy for users.
 
+## Requirments:
+### 1. System should have latency rate of 2 seconds only.
+#### 1.1 System should not lag for more than 1 seconds.
+#### 1.2 System shall fetch the data from nearest respective server available.
+### 2. System shall be available for any of 7 continents.
+#### 2.1 System must have data of all 7 continents.
+
+
+
 ## 2- Usage of Cache:
 Caching is the process of storing copies of files in a cache, or temporary storage location, so that they can be accessed more quickly. 
 Technically, a cache is any temporary storage location for copies of files or data, but the term is often used in reference to 
